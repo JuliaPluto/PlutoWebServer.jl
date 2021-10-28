@@ -1,0 +1,12 @@
+name = "PlutoWebServer"
+uuid = "7ef157fc-2a2e-4358-b9c8-ffd62b24cb87"
+authors = ["Paul Berg <paul@plutojl.org>"]
+
+[deps]
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
+InteractiveUtils = "b77e0a4c-d291-57a0-90e8-8db25a27a240"
+Markdown = "d6f4376e-aef5-505a-96c1-9c027394607a"
+PlutoHooks = "0ff47ea0-7a50-410d-8455-4348d5de0774"
+
+[compat]
+julia = "1.6"
